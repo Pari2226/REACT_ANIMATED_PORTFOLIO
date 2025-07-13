@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "role": "SDE",
-    "organisation": "Bluestock.In",
-    "startDate": "5/05, 2025",
-    "endDate": "Present",
+    "role": "Graphic design",
+    "organisation": "Clothing Company startUp",
+    "startDate": "",
+    "endDate": "Freelanced",
     "location": "remote,India",
     "experiences": [
-      "Worked on projects"
+      "Worked with Figma"
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": ""
   }
 ]
