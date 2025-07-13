@@ -20,6 +20,9 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "SQL",
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
   }
